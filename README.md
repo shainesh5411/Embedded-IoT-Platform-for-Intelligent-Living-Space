@@ -5,7 +5,7 @@
 
 ## Overview
 
-Embedded IoT Platform for Intelligent Living Space is a distributed ESP32-based smart home automation system designed to improve safety, security, energy efficiency, and remote monitoring.
+Embedded IoT Platform for Intelligent Living Space is a distributed ESP32-based smartliving space designed to improve safety, security, energy efficiency, and remote monitoring.
 
 The system uses multiple ESP32 nodes to monitor environmental parameters and perform intelligent local decision-making while providing remote access through IoT connectivity.
 
