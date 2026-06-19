@@ -42,8 +42,6 @@ The system uses multiple ESP32 nodes to monitor environmental parameters and per
 - Embedded C
 - Arduino IDE
 - RemoteXY
-- Firebase
-- IoT Dashboard
 
 ## Project Architecture
 
