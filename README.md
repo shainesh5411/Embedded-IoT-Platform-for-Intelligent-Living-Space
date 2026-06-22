@@ -72,7 +72,7 @@ Secured 1st Prize – Spectrum 2K26
 Research Paper Published:
 "Embedded IoT Platform for Intelligent Living Space"
 
-🎤 Presented at ICETIS 2026 International Conference
+Presented at ICETIS 2026 International Conference
 
 ## Authors
 
