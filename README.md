@@ -1,7 +1,7 @@
 # Embedded IoT Platform for Intelligent Living Space
 
-Secured First Prize – Spectrum 2K26
-Published Research Paper – ICETIS 2026
+- Secured First Prize – Spectrum 2K26
+- Published Research Paper – ICETIS 2026
 
 ## Overview
 
@@ -67,12 +67,12 @@ The system consists of multiple distributed ESP32 nodes:
 
 ## Achievements
 
-Secured 1st Prize – Spectrum 2K26
+- Secured 1st Prize – Spectrum 2K26
 
-Research Paper Published:
+- Research Paper Published:
 "Embedded IoT Platform for Intelligent Living Space"
 
-Presented at ICETIS 2026 International Conference
+- Presented at ICETIS 2026 International Conference
 
 ## Authors
 
